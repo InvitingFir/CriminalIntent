@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="crime_solved_label">Раскрыто</string>
+    <string name="list_item_crime_title">Название преступления</string>
+    <string name="crime_title_hint">Название преступления</string>
+    <string name="crime_title">Название</string>
+    <string name="list_item_crime_date">Дата преступления</string>
+    <string name="list_item_crime_police_button">Позвонить 112</string>
+    <string name="first_page_button">Первая страница</string>
+    <string name="last_page_button">Последняя страница</string>
+    <string name="date_picker_title">Дата преступления:</string>
+    <string name="time_picker_title">Время преступления</string>
+    <string name="new_crime">Новое преступление</string>
+    <string name="show_subtitle">Показать подробности</string>
+    <string name="hide_subtitle">Скрыть подробности</string>
+    <string name="remove_crime">Удалить преступление</string>
+    <string name="crime_suspect_text">Выбрать подозреваемого</string>
+    <string name="crime_report_text">Отправить отчет</string>
+    <string name="crime_report_solved">Дело раскрыто</string>
+    <string name="crime_report_unsolved">Дело не раскрыто</string>
+    <string name="crime_report_no_suspect">подозреваемые отсутствуют.</string>
+    <string name="crime_report_suspect">подозреваемый %s.</string>
+    <string name="crime_report">%1$s! Дело начато %2$s. %3$s, %4$s</string>
+    <string name="call_suspect">Позвонить подозреваемому</string>
+    <string name="send_report" translatable="false">Отправить отчет через</string>
+    <string name="crime_photo_button_description">Сфотографировать место преступления</string>
+    <string name="crime_photo_no_image_dscription">Фото преступления (отсутствует)</string>
+    <string name="crime_photo_image_descriprion">Фото преступления (присутствует)</string>
+    <string name="crime_description">Дело %1$s случилось %2$s. %3$s.</string>
+    <string name="crime_date">Дата</string>
+    <string name="crime_time">Время</string>
+</resources>
